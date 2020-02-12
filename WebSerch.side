@@ -70,6 +70,13 @@
       ],
       "value": "${KEY_ENTER}"
     }, {
+      "id": "87357b27-c034-4ef0-899d-c5281068c15d",
+      "comment": "",
+      "command": "pause",
+      "target": "2000",
+      "targets": [],
+      "value": ""
+    }, {
       "id": "6c429554-4c29-4369-900e-edf2ee33639d",
       "comment": "",
       "command": "click",
@@ -114,9 +121,9 @@
       "id": "c83d2ae9-2c47-400d-bced-137a4037b15e",
       "comment": "",
       "command": "pause",
-      "target": "",
+      "target": "2000",
       "targets": [],
-      "value": "50000"
+      "value": ""
     }, {
       "id": "f78d7ee0-9a6a-42e4-9de2-0c8999567af2",
       "comment": "",
@@ -210,9 +217,9 @@
       "id": "40790922-9191-4397-9745-dd5692ee5c53",
       "comment": "",
       "command": "pause",
-      "target": "",
+      "target": "2000",
       "targets": [],
-      "value": "50000"
+      "value": ""
     }, {
       "id": "d2727e57-4092-4eb2-be0a-801552261119",
       "comment": "",
@@ -258,9 +265,9 @@
       "id": "6340ea1e-be67-4d3a-a3a2-3ba1222d1ff1",
       "comment": "",
       "command": "pause",
-      "target": "",
+      "target": "2000",
       "targets": [],
-      "value": "50000"
+      "value": ""
     }, {
       "id": "8f50a05c-f0ac-4408-8c2a-1ddf295867cd",
       "comment": "",
@@ -306,9 +313,9 @@
       "id": "aa818a6d-4361-4812-b379-bd82528f9e0b",
       "comment": "",
       "command": "pause",
-      "target": "",
+      "target": "2000",
       "targets": [],
-      "value": "50000"
+      "value": ""
     }, {
       "id": "73206db5-65e5-45e1-810f-6fbaaa642bdd",
       "comment": "",
@@ -354,9 +361,9 @@
       "id": "fe3a352e-55cd-4f31-bf31-2b8fda94d47d",
       "comment": "",
       "command": "pause",
-      "target": "",
+      "target": "2000",
       "targets": [],
-      "value": "50000"
+      "value": ""
     }, {
       "id": "0788a5a4-5da9-4044-9274-a1ac4229dd08",
       "comment": "",
@@ -402,9 +409,9 @@
       "id": "8bfd957a-3124-4ecf-a816-102ab078546d",
       "comment": "",
       "command": "pause",
-      "target": "",
+      "target": "2000",
       "targets": [],
-      "value": "50000"
+      "value": ""
     }, {
       "id": "51ead516-9211-4b9b-b3b3-9d3b4fdfd533",
       "comment": "",
@@ -498,9 +505,9 @@
       "id": "e8cac28b-b7e2-4d4b-97ba-c9df0914aaf6",
       "comment": "",
       "command": "pause",
-      "target": "",
+      "target": "2000",
       "targets": [],
-      "value": "50000"
+      "value": ""
     }, {
       "id": "45c7d77e-887e-4860-966a-da76e8743ce5",
       "comment": "",
@@ -546,9 +553,9 @@
       "id": "80ea93ad-17d7-489f-9cd6-a976be3fd124",
       "comment": "",
       "command": "pause",
-      "target": "",
+      "target": "2000",
       "targets": [],
-      "value": "50000"
+      "value": ""
     }, {
       "id": "f23a3862-9dab-4470-8ee9-6f854c413ec8",
       "comment": "",
@@ -594,9 +601,9 @@
       "id": "47f2fbeb-a692-49fd-8946-f9d19f5dc7c6",
       "comment": "",
       "command": "pause",
-      "target": "",
+      "target": "2000",
       "targets": [],
-      "value": "50000"
+      "value": ""
     }, {
       "id": "90781288-d216-4596-a00d-2ef0302ea673",
       "comment": "",
@@ -642,9 +649,9 @@
       "id": "e0705d48-1b21-4f39-8c45-dc78f09b53a9",
       "comment": "",
       "command": "pause",
-      "target": "",
+      "target": "2000",
       "targets": [],
-      "value": "50000"
+      "value": ""
     }, {
       "id": "0e2cf074-6255-417a-8ab5-05b9a4109e51",
       "comment": "",
@@ -690,9 +697,9 @@
       "id": "e723f687-dfd8-4326-85a4-f1bbb4a8facc",
       "comment": "",
       "command": "pause",
-      "target": "",
+      "target": "2000",
       "targets": [],
-      "value": "50000"
+      "value": ""
     }, {
       "id": "8f95a8a6-79d9-4f0f-99b9-6ab078c51845",
       "comment": "",
@@ -738,9 +745,9 @@
       "id": "29b4c3c3-8f7d-4e9e-bf78-07712d1409e0",
       "comment": "",
       "command": "pause",
-      "target": "",
+      "target": "2000",
       "targets": [],
-      "value": "50000"
+      "value": ""
     }, {
       "id": "84a46ece-4a11-479e-b13d-6314fbaf64c5",
       "comment": "",
@@ -786,9 +793,9 @@
       "id": "4d168478-8951-4129-bc77-e30443cec9c7",
       "comment": "",
       "command": "pause",
-      "target": "",
+      "target": "2000",
       "targets": [],
-      "value": "50000"
+      "value": ""
     }, {
       "id": "bd6f1482-b8ec-460d-8e26-65b626026d0a",
       "comment": "",
@@ -834,9 +841,9 @@
       "id": "3bb2d5d8-63d9-4182-b47c-e4b3ab626813",
       "comment": "",
       "command": "pause",
-      "target": "",
+      "target": "2000",
       "targets": [],
-      "value": "50000"
+      "value": ""
     }, {
       "id": "a35e3795-c1b6-4913-a034-fe94498208ca",
       "comment": "",
@@ -882,9 +889,9 @@
       "id": "a8bc0bf8-8936-4dd6-b934-2a47b0f852fd",
       "comment": "",
       "command": "pause",
-      "target": "",
+      "target": "2000",
       "targets": [],
-      "value": "50000"
+      "value": ""
     }, {
       "id": "c269a3d5-5c49-4d7e-a176-d8417927946a",
       "comment": "",
@@ -930,9 +937,9 @@
       "id": "a4fb3885-d6ea-4046-a3bb-d917a2f88474",
       "comment": "",
       "command": "pause",
-      "target": "",
+      "target": "2000",
       "targets": [],
-      "value": "50000"
+      "value": ""
     }, {
       "id": "3749656c-ab30-4159-82ab-306da180cab3",
       "comment": "",
@@ -978,9 +985,9 @@
       "id": "01384540-b5f7-4b2b-b961-8d81fada9aad",
       "comment": "",
       "command": "pause",
-      "target": "",
+      "target": "2000",
       "targets": [],
-      "value": "50000"
+      "value": ""
     }, {
       "id": "6241aebd-3e2c-4700-8212-29417f0b6210",
       "comment": "",
@@ -1026,9 +1033,9 @@
       "id": "9d71ce7e-8089-4fa2-96c3-96620417ff13",
       "comment": "",
       "command": "pause",
-      "target": "",
+      "target": "2000",
       "targets": [],
-      "value": "50000"
+      "value": ""
     }, {
       "id": "26ff0bbc-9722-4c49-a60e-2b3d5088345d",
       "comment": "",
@@ -1074,9 +1081,9 @@
       "id": "2d38e96a-51b0-4b4d-89a4-400eb46314c1",
       "comment": "",
       "command": "pause",
-      "target": "",
+      "target": "2000",
       "targets": [],
-      "value": "50000"
+      "value": ""
     }, {
       "id": "fa942f23-1243-4271-ad97-de5715df09a7",
       "comment": "",
@@ -1122,9 +1129,9 @@
       "id": "bc2bb599-417e-49ce-b330-f51d8bc3b01c",
       "comment": "",
       "command": "pause",
-      "target": "",
+      "target": "2000",
       "targets": [],
-      "value": "50000"
+      "value": ""
     }, {
       "id": "7bc42ad4-55d0-41b3-b5de-fc6e52965ad6",
       "comment": "",
@@ -1170,9 +1177,9 @@
       "id": "4418beff-56bc-4426-9d3d-449ac51f73f9",
       "comment": "",
       "command": "pause",
-      "target": "",
+      "target": "2000",
       "targets": [],
-      "value": "50000"
+      "value": ""
     }, {
       "id": "3ad7a4c1-051a-4f12-a6a2-f871f1564809",
       "comment": "",
@@ -1218,9 +1225,9 @@
       "id": "a5463810-3875-45d5-abac-142a67440a0d",
       "comment": "",
       "command": "pause",
-      "target": "",
+      "target": "2000",
       "targets": [],
-      "value": "50000"
+      "value": ""
     }, {
       "id": "418a5f56-380c-4b86-b06d-eb6cf2ae354e",
       "comment": "",
@@ -1266,9 +1273,9 @@
       "id": "767c9730-2577-4b91-bb92-b1e95805f6bc",
       "comment": "",
       "command": "pause",
-      "target": "",
+      "target": "2000",
       "targets": [],
-      "value": "50000"
+      "value": ""
     }, {
       "id": "6640c677-b62e-482e-8ae7-4488f07866e6",
       "comment": "",
@@ -1314,9 +1321,9 @@
       "id": "96210992-83a0-44b8-b518-8f7403d238ee",
       "comment": "",
       "command": "pause",
-      "target": "",
+      "target": "2000",
       "targets": [],
-      "value": "50000"
+      "value": ""
     }, {
       "id": "3179b4da-cda1-45c1-93ff-2d14b2b6363a",
       "comment": "",
@@ -1362,9 +1369,9 @@
       "id": "c44f90bf-3b43-49e5-8689-ed00c1566390",
       "comment": "",
       "command": "pause",
-      "target": "",
+      "target": "2000",
       "targets": [],
-      "value": "50000"
+      "value": ""
     }, {
       "id": "01677b6c-5051-4bf0-9b27-e9a32ab77d7b",
       "comment": "",
@@ -1410,9 +1417,9 @@
       "id": "e904e0cb-3712-4324-aa63-22190c060285",
       "comment": "",
       "command": "pause",
-      "target": "",
+      "target": "2000",
       "targets": [],
-      "value": "50000"
+      "value": ""
     }, {
       "id": "b0608f0e-ed97-460f-b1b3-5d3442e99649",
       "comment": "",
@@ -1458,9 +1465,9 @@
       "id": "fb44997d-5f6c-4e52-b4d3-aeaa9d20c901",
       "comment": "",
       "command": "pause",
-      "target": "",
+      "target": "2000",
       "targets": [],
-      "value": "50000"
+      "value": ""
     }, {
       "id": "7da98db1-e9e0-4e47-9309-b0670bdaf2d3",
       "comment": "",
