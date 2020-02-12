@@ -70,6 +70,13 @@
       ],
       "value": "${KEY_ENTER}"
     }, {
+      "id": "a287e1ad-bc8d-44d4-bee5-5fce1ba40d7a",
+      "comment": "",
+      "command": "pause",
+      "target": "",
+      "targets": [],
+      "value": "3000"
+    }, {
       "id": "aa7ec8e4-2a2f-43b5-8471-900366c72b46",
       "comment": "",
       "command": "type",
@@ -881,6 +888,271 @@
         ["xpath=//p/input", "xpath:position"]
       ],
       "value": "${KEY_ENTER}"
+    }]
+  }, {
+    "id": "59f3d86e-fafb-4be0-b5a2-6953961b1ec3",
+    "name": "Simple",
+    "commands": [{
+      "id": "005bb666-25ff-483f-ae82-a7a621353ed8",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "0cb58026-c071-4b56-a124-a91bb1c2ad5c",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1280x980",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "e3c7cab3-f8a0-4e77-adcf-918d944aed0b",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,368)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "2a47c058-1fa2-4326-8c11-d06752c894c5",
+      "comment": "",
+      "command": "click",
+      "target": "id=search-input",
+      "targets": [
+        ["id=search-input", "id"],
+        ["name=qt", "name"],
+        ["css=#search-input", "css:finder"],
+        ["xpath=//input[@id='search-input']", "xpath:attributes"],
+        ["xpath=//p[@id='search-input-container']/input", "xpath:idRelative"],
+        ["xpath=//p/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "eb3284ef-641d-4fc6-909f-7dbe3231f151",
+      "comment": "",
+      "command": "type",
+      "target": "id=search-input",
+      "targets": [
+        ["id=search-input", "id"],
+        ["name=qt", "name"],
+        ["css=#search-input", "css:finder"],
+        ["xpath=//input[@id='search-input']", "xpath:attributes"],
+        ["xpath=//p[@id='search-input-container']/input", "xpath:idRelative"],
+        ["xpath=//p/input", "xpath:position"]
+      ],
+      "value": "入山杏奈"
+    }, {
+      "id": "45e9deac-60af-4362-93df-cca0ecd93372",
+      "comment": "",
+      "command": "sendKeys",
+      "target": "id=search-input",
+      "targets": [
+        ["id=search-input", "id"],
+        ["name=qt", "name"],
+        ["css=#search-input", "css:finder"],
+        ["xpath=//input[@id='search-input']", "xpath:attributes"],
+        ["xpath=//p[@id='search-input-container']/input", "xpath:idRelative"],
+        ["xpath=//p/input", "xpath:position"]
+      ],
+      "value": "${KEY_ENTER}"
+    }, {
+      "id": "6c429554-4c29-4369-900e-edf2ee33639d",
+      "comment": "",
+      "command": "click",
+      "target": "id=cbtn",
+      "targets": [
+        ["id=cbtn", "id"],
+        ["css=#cbtn", "css:finder"],
+        ["xpath=//span[@id='cbtn']", "xpath:attributes"],
+        ["xpath=//form[@id='myForm']/p/span", "xpath:idRelative"],
+        ["xpath=//p/span", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "3ce1f0c4-9d89-4fc6-8aee-e8362aebdda3",
+      "comment": "",
+      "command": "type",
+      "target": "id=srchformtxt_qt",
+      "targets": [
+        ["id=srchformtxt_qt", "id"],
+        ["name=qt", "name"],
+        ["css=#srchformtxt_qt", "css:finder"],
+        ["xpath=//input[@id='srchformtxt_qt']", "xpath:attributes"],
+        ["xpath=//form[@id='myForm']/p/input", "xpath:idRelative"],
+        ["xpath=//p/input", "xpath:position"]
+      ],
+      "value": "加藤玲奈"
+    }, {
+      "id": "b78232fd-7186-4748-9bd9-d287257c971a",
+      "comment": "",
+      "command": "sendKeys",
+      "target": "id=srchformtxt_qt",
+      "targets": [
+        ["id=srchformtxt_qt", "id"],
+        ["name=qt", "name"],
+        ["css=#srchformtxt_qt", "css:finder"],
+        ["xpath=//input[@id='srchformtxt_qt']", "xpath:attributes"],
+        ["xpath=//form[@id='myForm']/p/input", "xpath:idRelative"],
+        ["xpath=//p/input", "xpath:position"]
+      ],
+      "value": "${KEY_ENTER}"
+    }, {
+      "id": "c83d2ae9-2c47-400d-bced-137a4037b15e",
+      "comment": "",
+      "command": "pause",
+      "target": "",
+      "targets": [],
+      "value": "50000"
+    }, {
+      "id": "f78d7ee0-9a6a-42e4-9de2-0c8999567af2",
+      "comment": "",
+      "command": "click",
+      "target": "id=cbtn",
+      "targets": [
+        ["id=cbtn", "id"],
+        ["css=#cbtn", "css:finder"],
+        ["xpath=//span[@id='cbtn']", "xpath:attributes"],
+        ["xpath=//form[@id='myForm']/p/span", "xpath:idRelative"],
+        ["xpath=//p/span", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "86828d90-03ab-4a89-af3e-e4b9becfa70d",
+      "comment": "",
+      "command": "type",
+      "target": "id=srchformtxt_qt",
+      "targets": [
+        ["id=srchformtxt_qt", "id"],
+        ["name=qt", "name"],
+        ["css=#srchformtxt_qt", "css:finder"],
+        ["xpath=//input[@id='srchformtxt_qt']", "xpath:attributes"],
+        ["xpath=//form[@id='myForm']/p/input", "xpath:idRelative"],
+        ["xpath=//p/input", "xpath:position"]
+      ],
+      "value": "佐藤美波"
+    }, {
+      "id": "aa12e623-fe8e-4d25-86f7-595113cbf2db",
+      "comment": "",
+      "command": "sendKeys",
+      "target": "id=srchformtxt_qt",
+      "targets": [
+        ["id=srchformtxt_qt", "id"],
+        ["name=qt", "name"],
+        ["css=#srchformtxt_qt", "css:finder"],
+        ["xpath=//input[@id='srchformtxt_qt']", "xpath:attributes"],
+        ["xpath=//form[@id='myForm']/p/input", "xpath:idRelative"],
+        ["xpath=//p/input", "xpath:position"]
+      ],
+      "value": "${KEY_ENTER}"
+    }, {
+      "id": "f9df4a1a-af30-40cb-bbec-37fa384b1082",
+      "comment": "",
+      "command": "pause",
+      "target": "",
+      "targets": [],
+      "value": "50000"
+    }, {
+      "id": "29a8b5f8-1355-4e0c-ae97-7e047a22a193",
+      "comment": "",
+      "command": "click",
+      "target": "id=cbtn",
+      "targets": [
+        ["id=cbtn", "id"],
+        ["css=#cbtn", "css:finder"],
+        ["xpath=//span[@id='cbtn']", "xpath:attributes"],
+        ["xpath=//form[@id='myForm']/p/span", "xpath:idRelative"],
+        ["xpath=//p/span", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "13ac5b46-ebf5-4ac7-a758-ef3cc64395ef",
+      "comment": "",
+      "command": "type",
+      "target": "id=srchformtxt_qt",
+      "targets": [
+        ["id=srchformtxt_qt", "id"],
+        ["name=qt", "name"],
+        ["css=#srchformtxt_qt", "css:finder"],
+        ["xpath=//input[@id='srchformtxt_qt']", "xpath:attributes"],
+        ["xpath=//form[@id='myForm']/p/input", "xpath:idRelative"],
+        ["xpath=//p/input", "xpath:position"]
+      ],
+      "value": "篠崎彩奈"
+    }, {
+      "id": "7d6d4208-8e41-4ca3-94d9-9a776243f5e5",
+      "comment": "",
+      "command": "sendKeys",
+      "target": "id=srchformtxt_qt",
+      "targets": [
+        ["id=srchformtxt_qt", "id"],
+        ["name=qt", "name"],
+        ["css=#srchformtxt_qt", "css:finder"],
+        ["xpath=//input[@id='srchformtxt_qt']", "xpath:attributes"],
+        ["xpath=//form[@id='myForm']/p/input", "xpath:idRelative"],
+        ["xpath=//p/input", "xpath:position"]
+      ],
+      "value": "${KEY_ENTER}"
+    }, {
+      "id": "d2727e57-4092-4eb2-be0a-801552261119",
+      "comment": "",
+      "command": "click",
+      "target": "id=cbtn",
+      "targets": [
+        ["id=cbtn", "id"],
+        ["css=#cbtn", "css:finder"],
+        ["xpath=//span[@id='cbtn']", "xpath:attributes"],
+        ["xpath=//form[@id='myForm']/p/span", "xpath:idRelative"],
+        ["xpath=//p/span", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "40790922-9191-4397-9745-dd5692ee5c53",
+      "comment": "",
+      "command": "pause",
+      "target": "",
+      "targets": [],
+      "value": "50000"
+    }, {
+      "id": "72b92190-5fe1-44f4-8df1-be8ba4003d54",
+      "comment": "",
+      "command": "type",
+      "target": "id=srchformtxt_qt",
+      "targets": [
+        ["id=srchformtxt_qt", "id"],
+        ["name=qt", "name"],
+        ["css=#srchformtxt_qt", "css:finder"],
+        ["xpath=//input[@id='srchformtxt_qt']", "xpath:attributes"],
+        ["xpath=//form[@id='myForm']/p/input", "xpath:idRelative"],
+        ["xpath=//p/input", "xpath:position"]
+      ],
+      "value": "西川怜"
+    }, {
+      "id": "ad0b0e66-8ba6-4ed6-b6e1-79ebdc2e8536",
+      "comment": "",
+      "command": "sendKeys",
+      "target": "id=srchformtxt_qt",
+      "targets": [
+        ["id=srchformtxt_qt", "id"],
+        ["name=qt", "name"],
+        ["css=#srchformtxt_qt", "css:finder"],
+        ["xpath=//input[@id='srchformtxt_qt']", "xpath:attributes"],
+        ["xpath=//form[@id='myForm']/p/input", "xpath:idRelative"],
+        ["xpath=//p/input", "xpath:position"]
+      ],
+      "value": "${KEY_ENTER}"
+    }, {
+      "id": "8f50a05c-f0ac-4408-8c2a-1ddf295867cd",
+      "comment": "",
+      "command": "click",
+      "target": "id=cbtn",
+      "targets": [
+        ["id=cbtn", "id"],
+        ["css=#cbtn", "css:finder"],
+        ["xpath=//span[@id='cbtn']", "xpath:attributes"],
+        ["xpath=//form[@id='myForm']/p/span", "xpath:idRelative"],
+        ["xpath=//p/span", "xpath:position"]
+      ],
+      "value": ""
     }]
   }],
   "suites": [{
